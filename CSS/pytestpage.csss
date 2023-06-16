@@ -1,0 +1,38 @@
+header {
+    border-radius: 25px;
+    /* margin-bottom: 10px; */
+    display: flex;
+    flex-flow: row;
+    background-color: rgb(27, 218, 155);
+}
+
+header img {
+    margin-left: auto;
+    margin-right: 80px;
+    display: block;
+    height: 60px;
+    padding-top: 10px;
+
+}
+
+.wrapper_flex {
+    display: flex;
+}
+
+.wrapper_float {
+    display: flex;
+}
+
+body {
+    background-color: rgb(167, 172, 172);
+    min-height: 100%;
+}
+
+main {
+    background-color: rgb(244, 242, 239);
+}
+
+h1,
+p {
+    margin-left: 40px;
+}
